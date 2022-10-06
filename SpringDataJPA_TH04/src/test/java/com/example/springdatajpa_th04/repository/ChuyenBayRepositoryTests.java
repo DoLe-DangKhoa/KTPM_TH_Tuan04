@@ -38,6 +38,8 @@ public class ChuyenBayRepositoryTests {
         System.out.print(chuyenBayRepository.findChuyenBayKhoiHanhTruoc12h());
     }
 
+
+    //Cau 21 select y het 20 nen bo qua
     @Test
     void cau21(){
         System.out.print(chuyenBayRepository.demChuyenBayKhoiHanhTruoc12h());
